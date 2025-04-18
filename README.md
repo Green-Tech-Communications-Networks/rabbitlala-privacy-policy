@@ -11,7 +11,8 @@ Rabbitlala ("we", "our", or "us") provides a platform to manage inventory, servi
 	•	For analytics and usage monitoring
 	•	To communicate updates and support
 ## 3. Data Sharing
-    We do not sell your data. We may share it with trusted third parties for services like cloud hosting or payment processing.
+    We do not sell your data.
+    We may share it with trusted third parties for services like cloud hosting or payment processing.
 
 ## 4. Security
     We use encryption, authentication, and secure cloud storage to protect your data.
