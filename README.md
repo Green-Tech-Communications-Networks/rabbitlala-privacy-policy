@@ -17,3 +17,5 @@ Rabbitlala ("we", "our", or "us") provides a platform to manage inventory, servi
     We use encryption, authentication, and secure cloud storage to protect your data.
 ## 5. Your Rights
     You can request access, correction, or deletion of your data by contacting us at support@rabbitlala.ng.
+
+## Effective Date: 02/04/2025
